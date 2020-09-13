@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-to-vk-app/static/css/main.dd97e2b5.chunk.css",
-    "main.js": "/test-to-vk-app/static/js/main.5e040319.chunk.js",
-    "main.js.map": "/test-to-vk-app/static/js/main.5e040319.chunk.js.map",
+    "main.js": "/test-to-vk-app/static/js/main.7ca72616.chunk.js",
+    "main.js.map": "/test-to-vk-app/static/js/main.7ca72616.chunk.js.map",
     "runtime-main.js": "/test-to-vk-app/static/js/runtime-main.f970f597.js",
     "runtime-main.js.map": "/test-to-vk-app/static/js/runtime-main.f970f597.js.map",
     "static/css/2.09e62520.chunk.css": "/test-to-vk-app/static/css/2.09e62520.chunk.css",
     "static/js/2.ab5b240a.chunk.js": "/test-to-vk-app/static/js/2.ab5b240a.chunk.js",
     "static/js/2.ab5b240a.chunk.js.map": "/test-to-vk-app/static/js/2.ab5b240a.chunk.js.map",
     "index.html": "/test-to-vk-app/index.html",
-    "precache-manifest.eeae00c140a598ea44ab6e6bb31c24fa.js": "/test-to-vk-app/precache-manifest.eeae00c140a598ea44ab6e6bb31c24fa.js",
+    "precache-manifest.eb9dca6db0191dfe900db68d12b273ba.js": "/test-to-vk-app/precache-manifest.eb9dca6db0191dfe900db68d12b273ba.js",
     "service-worker.js": "/test-to-vk-app/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/test-to-vk-app/static/css/2.09e62520.chunk.css.map",
     "static/css/main.dd97e2b5.chunk.css.map": "/test-to-vk-app/static/css/main.dd97e2b5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.09e62520.chunk.css",
     "static/js/2.ab5b240a.chunk.js",
     "static/css/main.dd97e2b5.chunk.css",
-    "static/js/main.5e040319.chunk.js"
+    "static/js/main.7ca72616.chunk.js"
   ]
 }
